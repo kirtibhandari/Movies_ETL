@@ -1,6 +1,6 @@
 # Adding config.py file.
 config.py
-# Adding csv files to ignore
+# Adding csv files to ignore as they can't be uplaoded here due to their large size
 movies_metadata.csv
 ratings.csv
 wikipedia-movies.json

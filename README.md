@@ -13,8 +13,8 @@ In this project, we have used Python and Pandas to perform our data wrangling of
 ## **Results:**
 As a result of performing ETL process on the available data, a cleaned, consistent, robust data is stored in PostgreSQL as shown .
 
-![](Resources\movies_query.png)
+![](https://github.com/kirtibhandari/Movies_ETL/blob/main/Resources/movies_query.png)
 
-![](Resources\ratings_query.png)
+![](https://github.com/kirtibhandari/Movies_ETL/blob/main/Resources/ratings_query.png)
 
 
